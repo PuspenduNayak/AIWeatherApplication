@@ -117,16 +117,7 @@ An elegant, fully responsive web app that:
 
 ## 🙌 Author
 
-Made with 💙 by Your Name\
-Tag: @aiwallah for AI awesomeness 😎
+Made with 💙 by Puspendu Nayak
 
 ---
 
-### 🔁 What You Need to Do:
-
-| Task | Instruction |
-| --- | --- |
-| ✅ Replace YOUR_USERNAME, YOUR_REPO, and YOUR_PROFILE | With your actual GitHub and LinkedIn info |
-| 🎥 Add your demo video | Here’s how to embed it on GitHub |
-| 🖼️ Add screenshots (optional) | Put images in /assets/ folder and link them |
-| 🌐 Add correct Vercel link | Replace your-project-name.vercel.app |
