@@ -11,8 +11,9 @@ An elegant, fully responsive web app that:
 
 ## 📹 Demo
 
-\[Insert your video demo here\]\
-*Replace this placeholder with your actual video link or embedded video. Follow GitHub’s guide on embedding videos to add your video.*
+(https://github.com/PuspenduNayak/AIWeatherApplication/assets/12345678/abcdefg1234567
+
+> If the above video doesn’t load, you can [download it here](https://github.com/PuspenduNayak/AIWeatherApplication/blob/main/Assets/video/AIWeatherApplication.mp4))
 
 ---
 
