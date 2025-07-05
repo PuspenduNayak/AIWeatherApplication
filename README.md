@@ -37,9 +37,11 @@ An elegant, fully responsive web app that:
 
 ## 🖼️ Screenshots
 
+## 🖼️ Screenshots
+
 | Weather Card | Chatbot |
-| --- | --- |
-|  |  |
+|--------------|---------|
+| ![Weather Card](https://github.com/PuspenduNayak/AIWeatherApplication/blob/main/Assets/images/weather_cart.png?raw=true) | ![Chatbot](https://github.com/PuspenduNayak/AIWeatherApplication/blob/main/Assets/images/chatImage.png?raw=true) |
 
 ---
 
