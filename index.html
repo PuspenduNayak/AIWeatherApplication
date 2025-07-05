@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Weather App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <div class="weather-card" id="weather">
+      <p>Loading weather...</p>
+    </div>
+  </div>
+
+  <!-- Chat Button -->
+  <button class="chat-toggle-btn" onclick="toggleChat()">💬 Chat</button>
+
+  <!-- Chatbot Window -->
+  <div class="chat-window" id="chatWindow">
+    <div class="chat-header">AI Chatbot 🤖 <span onclick="toggleChat()">✖</span></div>
+    <div class="chat-body" id="chatBody"></div>
+    <div class="chat-input">
+      <input type="text" id="userInput" placeholder="Type your message..." />
+      <button onclick="sendMessage()">➤</button>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
