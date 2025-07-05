@@ -11,7 +11,7 @@ An elegant, fully responsive web app that:
 
 ## 📹 Demo
 
-(https://github.com/PuspenduNayak/AIWeatherApplication/assets/12345678/abcdefg1234567
+🎥 [Click here to watch the video demo](https://github.com/PuspenduNayak/AIWeatherApplication/blob/main/Assets/video/AIWeatherApplication.mp4)
 
 > If the above video doesn’t load, you can [download it here](https://github.com/PuspenduNayak/AIWeatherApplication/blob/main/Assets/video/AIWeatherApplication.mp4))
 
