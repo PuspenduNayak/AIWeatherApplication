@@ -18,7 +18,8 @@ An elegant, fully responsive web app that:
 
 ## 🌐 Live Demo
 
-👉 **Click here to try it live**
+👉 [**Click here to try it live**](https://aismartweatherapp.vercel.app/)
+
 
 ---
 
